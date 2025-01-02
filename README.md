@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Show Debug</title>
+    <title>Exercise22</title>
 </head>
 <body>
     <h1>Hello, Debugger!</h1>
